@@ -11,3 +11,4 @@ commands:
     description: Reload the configuration.
     permission: lpc.reload
     usage: "Usage: /lpc reload"
+folia-supported: true
